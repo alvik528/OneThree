@@ -1,0 +1,126 @@
+DrugBank_ID,identifier_src,identifier_id,identifier_link
+DB00619,Human Metabolome Database,HMDB0014757,http://www.hmdb.ca/metabolites/HMDB0014757
+DB00619,KEGG Drug,D01441,http://www.genome.jp/dbget-bin/www_bget?drug:D01441
+DB00619,PubChem Compound,5291,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5291
+DB00619,PubChem Substance,46505055,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=46505055
+DB00619,ChemSpider,5101,https://www.chemspider.com/Chemical-Structure.5101.html
+DB00619,BindingDB,13530,http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=13530
+DB00619,RxNav,282388,https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=282388
+DB00619,ChEBI,45783,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=45783
+DB00619,ChEMBL,CHEMBL941,https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL941
+DB00619,ZINC,ZINC000019632618,https://zinc.docking.org/substances/ZINC000019632618
+DB00619,Therapeutic Targets Database,DNC001383,http://bidd.nus.edu.sg/group/cjttd/ZFTTDDRUG.asp?ID=DNC001383
+DB00619,PharmGKB,PA10804,http://www.pharmgkb.org/drug/PA10804
+DB00619,PDBe Ligand,STI,https://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/STI
+DB00619,RxList,RxList Drug Page,http://www.rxlist.com/cgi/generic3/gleevec.htm
+DB00619,Drugs.com,Drugs.com Drug Page,https://www.drugs.com/cdi/imatinib.html
+DB00619,Wikipedia,Imatinib,https://en.wikipedia.org/wiki/Imatinib
+DB01048,Human Metabolome Database,HMDB0015182,http://www.hmdb.ca/metabolites/HMDB0015182
+DB01048,KEGG Drug,D07057,http://www.genome.jp/dbget-bin/www_bget?drug:D07057
+DB01048,KEGG Compound,C07624,http://www.genome.jp/dbget-bin/www_bget?cpd:C07624
+DB01048,PubChem Compound,441300,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=441300
+DB01048,PubChem Substance,46505718,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=46505718
+DB01048,ChemSpider,390063,https://www.chemspider.com/Chemical-Structure.390063.html
+DB01048,BindingDB,50366816,http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50366816
+DB01048,RxNav,190521,https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=190521
+DB01048,ChEBI,421707,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=421707
+DB01048,ChEMBL,CHEMBL1380,https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL1380
+DB01048,ZINC,ZINC000002015928,https://zinc.docking.org/substances/ZINC000002015928
+DB01048,Therapeutic Targets Database,DAP000704,http://bidd.nus.edu.sg/group/cjttd/ZFTTDDRUG.asp?ID=DAP000704
+DB01048,PharmGKB,PA448004,http://www.pharmgkb.org/drug/PA448004
+DB01048,PDBe Ligand,1KX,https://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/1KX
+DB01048,RxList,RxList Drug Page,http://www.rxlist.com/cgi/generic/abavir.htm
+DB01048,Drugs.com,Drugs.com Drug Page,https://www.drugs.com/cdi/abacavir.html
+DB01048,PDRhealth,PDRhealth Drug Page,http://www.pdrhealth.com/drug_info/rxdrugprofiles/drugs/cx1527.shtml
+DB01048,Wikipedia,Abacavir,https://en.wikipedia.org/wiki/Abacavir
+DB14093,ChemSpider,35147838,https://www.chemspider.com/Chemical-Structure.35147838.html
+DB00173,Human Metabolome Database,HMDB0000034,http://www.hmdb.ca/metabolites/HMDB0000034
+DB00173,KEGG Drug,D00034,http://www.genome.jp/dbget-bin/www_bget?drug:D00034
+DB00173,KEGG Compound,C00147,http://www.genome.jp/dbget-bin/www_bget?cpd:C00147
+DB00173,PubChem Compound,190,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=190
+DB00173,PubChem Substance,46507319,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=46507319
+DB00173,ChemSpider,185,https://www.chemspider.com/Chemical-Structure.185.html
+DB00173,BindingDB,181146,http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=181146
+DB00173,RxNav,290,https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=290
+DB00173,ChEBI,16708,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=16708
+DB00173,ChEMBL,CHEMBL226345,https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL226345
+DB00173,ZINC,ZINC000000000882,https://zinc.docking.org/substances/ZINC000000000882
+DB00173,Therapeutic Targets Database,DAP000982,http://bidd.nus.edu.sg/group/cjttd/ZFTTDDRUG.asp?ID=DAP000982
+DB00173,PharmGKB,PA448048,http://www.pharmgkb.org/drug/PA448048
+DB00173,PDBe Ligand,ADE,https://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/ADE
+DB00173,Wikipedia,Adenine,https://en.wikipedia.org/wiki/Adenine
+DB00734,Human Metabolome Database,HMDB0005020,http://www.hmdb.ca/metabolites/HMDB0005020
+DB00734,KEGG Drug,D00426,http://www.genome.jp/dbget-bin/www_bget?drug:D00426
+DB00734,PubChem Compound,5073,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5073
+DB00734,PubChem Substance,46505850,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=46505850
+DB00734,ChemSpider,4895,https://www.chemspider.com/Chemical-Structure.4895.html
+DB00734,BindingDB,50001885,http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50001885
+DB00734,RxNav,35636,https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=35636
+DB00734,ChEBI,8871,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=8871
+DB00734,ChEMBL,CHEMBL85,https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL85
+DB00734,ZINC,ZINC000000538312,https://zinc.docking.org/substances/ZINC000000538312
+DB00734,Therapeutic Targets Database,DAP000003,http://bidd.nus.edu.sg/group/cjttd/ZFTTDDRUG.asp?ID=DAP000003
+DB00734,PharmGKB,PA451257,http://www.pharmgkb.org/drug/PA451257
+DB00734,Guide to Pharmacology,GtP Drug Page,http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=96
+DB00734,RxList,RxList Drug Page,http://www.rxlist.com/cgi/generic/risperid.htm
+DB00734,Drugs.com,Drugs.com Drug Page,https://www.drugs.com/risperidone.html
+DB00734,PDRhealth,PDRhealth Drug Page,http://www.pdrhealth.com/drugs/rx/rx-mono.aspx?contentFileName=ris1382.html&contentName=Risperdal&contentId=667
+DB00734,Wikipedia,Risperidone,https://en.wikipedia.org/wiki/Risperidone
+DB00218,Human Metabolome Database,HMDB0014363,http://www.hmdb.ca/metabolites/HMDB0014363
+DB00218,KEGG Drug,D08237,http://www.genome.jp/dbget-bin/www_bget?drug:D08237
+DB00218,KEGG Compound,C07663,http://www.genome.jp/dbget-bin/www_bget?cpd:C07663
+DB00218,PubChem Compound,152946,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=152946
+DB00218,PubChem Substance,46508509,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=46508509
+DB00218,ChemSpider,134802,https://www.chemspider.com/Chemical-Structure.134802.html
+DB00218,BindingDB,50366824,http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50366824
+DB00218,RxNav,139462,https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=139462
+DB00218,ChEBI,63611,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=63611
+DB00218,ChEMBL,CHEMBL32,https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL32
+DB00218,ZINC,ZINC000003826253,https://zinc.docking.org/substances/ZINC000003826253
+DB00218,Therapeutic Targets Database,DAP000158,http://bidd.nus.edu.sg/group/cjttd/ZFTTDDRUG.asp?ID=DAP000158
+DB00218,PharmGKB,PA450555,http://www.pharmgkb.org/drug/PA450555
+DB00218,PDBe Ligand,MFX,https://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/MFX
+DB00218,RxList,RxList Drug Page,http://www.rxlist.com/cgi/generic3/vigamox.htm
+DB00218,Drugs.com,Drugs.com Drug Page,https://www.drugs.com/cdi/moxifloxacin-drops.html
+DB00218,PDRhealth,PDRhealth Drug Page,http://www.pdrhealth.com/drug_info/rxdrugprofiles/drugs/ave1540.shtml
+DB00218,Wikipedia,Moxifloxacin,https://en.wikipedia.org/wiki/Moxifloxacin
+DB05196,PubChem Substance,347910017,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=347910017
+DB09095,PubChem Compound,11954369,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11954369
+DB09095,PubChem Substance,310265022,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=310265022
+DB09095,ChemSpider,10128664,https://www.chemspider.com/Chemical-Structure.10128664.html
+DB09095,RxNav,3392,https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=3392
+DB09095,ChEBI,135624,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=135624
+DB09095,ChEMBL,CHEMBL509924,https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL509924
+DB09095,ZINC,ZINC000004212939,https://zinc.docking.org/substances/ZINC000004212939
+DB09095,Wikipedia,Diflucortolone,https://en.wikipedia.org/wiki/Diflucortolone
+DB01053,Human Metabolome Database,HMDB0015186,http://www.hmdb.ca/metabolites/HMDB0015186
+DB01053,KEGG Drug,D02336,http://www.genome.jp/dbget-bin/www_bget?drug:D02336
+DB01053,KEGG Compound,C05551,http://www.genome.jp/dbget-bin/www_bget?cpd:C05551
+DB01053,PubChem Compound,5904,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5904
+DB01053,PubChem Substance,46506778,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=46506778
+DB01053,ChemSpider,5693,https://www.chemspider.com/Chemical-Structure.5693.html
+DB01053,BindingDB,50022787,http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50022787
+DB01053,RxNav,7980,https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=7980
+DB01053,ChEBI,18208,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=18208
+DB01053,ChEMBL,CHEMBL29,https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL29
+DB01053,ZINC,ZINC000003871701,https://zinc.docking.org/substances/ZINC000003871701
+DB01053,Therapeutic Targets Database,DNC001109,http://bidd.nus.edu.sg/group/cjttd/ZFTTDDRUG.asp?ID=DNC001109
+DB01053,PharmGKB,PA450842,http://www.pharmgkb.org/drug/PA450842
+DB01053,PDBe Ligand,PNN,https://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/PNN
+DB01053,RxList,RxList Drug Page,http://www.rxlist.com/cgi/generic3/pengk.htm
+DB01053,Wikipedia,Benzylpenicillin,https://en.wikipedia.org/wiki/Benzylpenicillin
+DB00274,Human Metabolome Database,HMDB0014419,http://www.hmdb.ca/metabolites/HMDB0014419
+DB00274,KEGG Drug,D00910,http://www.genome.jp/dbget-bin/www_bget?drug:D00910
+DB00274,KEGG Compound,C08103,http://www.genome.jp/dbget-bin/www_bget?cpd:C08103
+DB00274,PubChem Compound,42008,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=42008
+DB00274,PubChem Substance,46504461,https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=46504461
+DB00274,ChemSpider,38311,https://www.chemspider.com/Chemical-Structure.38311.html
+DB00274,BindingDB,50350471,http://www.bindingdb.org/bind/chemsearch/marvin/MolStructure.jsp?monomerid=50350471
+DB00274,RxNav,2182,https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=2182
+DB00274,ChEBI,3489,https://www.ebi.ac.uk/chebi/searchId.do?chebiId=3489
+DB00274,ChEMBL,CHEMBL1201195,https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/CHEMBL1201195
+DB00274,ZINC,ZINC000003830417,https://zinc.docking.org/substances/ZINC000003830417
+DB00274,Therapeutic Targets Database,DAP001179,http://bidd.nus.edu.sg/group/cjttd/ZFTTDDRUG.asp?ID=DAP001179
+DB00274,PharmGKB,PA164746819,http://www.pharmgkb.org/drug/PA164746819
+DB00274,PDBe Ligand,4KO,https://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/4KO
+DB00274,Wikipedia,Cefmetazole,https://en.wikipedia.org/wiki/Cefmetazole
